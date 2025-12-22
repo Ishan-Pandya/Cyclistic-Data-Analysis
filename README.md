@@ -1,2 +1,2 @@
 # Cyclistic-Data-Analysis
-Customer behavior analysis using SQL, Python, and Power BI
+Data analysis project analyzing Cyclistic bike-share data to identify rider patterns and marketing insights.
